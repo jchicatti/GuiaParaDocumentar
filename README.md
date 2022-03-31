@@ -31,7 +31,7 @@ Cuando una documentación es eficiente, el usuario puede encontrar el pedazo de 
 ### 2. Para tus colaboradores <a name="para-tus-colaboradores"></a>
 Si quieres que otros desarrolladores trabajen en tu código, vas a tener que documentar.
 Los colaboradores no llegan de la noche a la mañana por arte de magia.
-La gente debe querer usar tu producto e involucrarse con él. Y si la gente no entiende para qué sirve tu proyecto, no lo va a usar. Y si la gente no sabe cómo instalar y empezar a usar tu código, nadie lo va a usar. [[2]](#ref2)
+La gente debe querer usar tu producto e involucrarse con él. Si la gente no entiende para qué sirve tu proyecto, no lo va a instalar. Y si la gente no sabe cómo instalar ni empezar a usar tu código, nadie lo va a usar. [[2]](#ref2)
 
 ### 3. Para ti mismo <a name="para-ti-mismo"></a>
 Por último, pero no menos importante, tú seguramente volverás a este código dentro de algun tiempo.
