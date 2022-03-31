@@ -23,7 +23,6 @@ También podrás usarla para empezar a documentar muchos otros proyectos.
 La documentación es cualquier material comunicable que se utiliza para describir, explicar o instruir sobre algunos atributos de un objeto, sistema o procedimiento, tales como sus partes, ensamblaje, instalación, mantenimiento y uso. [[1]](#ref1)
 
 ## ¿Para qué documentar?
-Para satisfacer algunos de los siguientes propósitos:
 
 ### 1. Para los usuarios <a name="para-los-usuarios"></a>
 El objetivo de una documentación es ayudar al usuario. Una buena documentación es clara y eficiente.
@@ -47,7 +46,7 @@ El lenguaje más popular para elaborar el README es Markdown. Markdown ofrece mu
 ### GitHub
 GitHub es una plataforma de hospedaje de código para el control de versiones y la colaboración. GitHub permite que tú y otras personas trabajen juntos en proyectos desde donde sea. [[3]](#ref3)
 
-Para seguir este tutorial, necesitarás una cuenta de GitHub y acceso a internet. No necesitas saber cómo codificar ni utilizar la línea de comandos.
+Para seguir esta guía, necesitarás una cuenta de GitHub y acceso a internet. No necesitas saber cómo codificar ni utilizar la línea de comandos.
 
 ### Pasos para crear tu repositorio
 Un repositorio se utiliza a menudo para organizar un solo proyecto. Los repositorios pueden contener carpetas y archivos, imágenes, videos, hojas de cálculo y conjuntos de datos; todo lo que necesita tu proyecto.
