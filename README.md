@@ -58,7 +58,7 @@ Para empezar con tu repositorio ingresa a GitHub y sigue estos pasos:
 
 ## ¿Qué incluir en la documentación?
 
-Enfrentarse a una página vacía sin saber con qué llenarla es difícil. Por esto, aquí incluyo algunas ideas de qué escribir para empezar.
+Por último, enfrentarse a una página vacía sin saber con qué llenarla es difícil. Por esto, aquí incluyo algunas ideas de qué escribir para empezar.
 
 - Empieza explicando qué es lo que hace tu proyecto.
 - Pon a tus lectores en el contexto de tu proyecto. Recuerda que pueden leerte tanto usuarios inexperimentados como desarrolladores.
