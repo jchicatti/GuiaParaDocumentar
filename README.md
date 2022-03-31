@@ -2,8 +2,8 @@
 
 ![mexicoders](https://user-images.githubusercontent.com/56322123/160956512-d1c37890-1085-4864-9168-3fa34c5e38f3.png)
 
-El objetivo de este repositorio es ayudarte a hacer tu primera documentación.
-También podras usarlo como guía para empezar a armar muchas otras documentaciones.
+El objetivo de esta guía es ayudarte a hacer tu primera documentación.
+También podrás usarla para empezar a documentar muchos otros proyectos.
 
 ## Contenido
 * [¿Qué es una documentación?](#qué-es-una-documentación)
@@ -30,14 +30,13 @@ El objetivo de una documentación es ayudar al usuario. Una buena documentación
 Cuando una documentación es eficiente, el usuario puede encontrar el pedazo de información que necesita rápidamente. Cuando es clara, el usuario adquiere esa información y puede aplicarla para mejorar su uso del producto.
 
 ### 2. Para tus colaboradores <a name="para-tus-colaboradores"></a>
-Si quieres que otros desarrolladores trabajen en tu código, vas a tener que documentar. <br>
-<br>
-Me gustaría hacer referencia a [este artículo](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) de _Write the Docs_ en el que dejan claro porqué necesitamos documentar si queremos iniciar un proyecto _open source_. Básicamente, los colaboradores no llegan de la noche a la mañana por arte de magia.<br><br>
-La gente debe querer usar tu producto e involucrarse con él. Y si la gente no entiende para qué sirve tu proyecto, no lo va a usar. Si la gente no sabe cómo instalar y empezar a usar tu código, nadie lo va a usar. [[2]](#ref2)
+Si quieres que otros desarrolladores trabajen en tu código, vas a tener que documentar.
+Los colaboradores no llegan de la noche a la mañana por arte de magia.
+La gente debe querer usar tu producto e involucrarse con él. Y si la gente no entiende para qué sirve tu proyecto, no lo va a usar. Y si la gente no sabe cómo instalar y empezar a usar tu código, nadie lo va a usar. [[2]](#ref2)
 
 ### 3. Para ti mismo <a name="para-ti-mismo"></a>
 Por último, pero no menos importante, tú seguramente volverás a este código dentro de algun tiempo.
-Cuando tengas que hacer cambios y mejoras lo más probable es que no entiendas una buena parte del código que escribiste. Quizás podrías tener dudas de cómo empezar a usar la funcionalidad.<br><br>
+Cuando tengas que hacer cambios y mejoras lo más probable es que no entiendas una buena parte del código que escribiste. Quizás podrías tener dudas de cómo empezar a usar la funcionalidad. <br><br>
 
 ## ¿Por dónde empezar?
 > Ya estoy convencidx de que debo documentar mi proyecto, pero no tengo idea de por dónde empezar.
@@ -65,7 +64,7 @@ Enfrentarse a una página vacía sin saber con qué llenarla es difícil. Por es
 - Pon a tus lectores en el contexto de tu proyecto. Recuerda que pueden leerte tanto usuarios inexperimentados como desarrolladores.
 - Incluye un ejemplo de código. Explica cómo funciona y para qué se usa.
 - Da instrucciones detalladas de cómo instalar y empezar a usar tu trabajo.
-- Añade un link de sugerencias. Tus potenciales colaboradores podrían estar interesados en sugerir una funcionalidad. Haz que sea fácil para ellos contactarte.
+- Añade un enlace para sugerencias. Tus potenciales colaboradores podrían estar interesados en sugerir una funcionalidad. Haz que sea fácil para ellos contactarte.
 - Asegúrate de incluir apoyos visuales. Leer lenguaje técnico puede volverse tedioso.
 <br>
 ¡Mucho éxito en tu primera documentación!
